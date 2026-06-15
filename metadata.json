@@ -1,0 +1,6 @@
+{
+  "name": "Al Kafelah FC",
+  "description": "The official Al Kafelah FC hero experience landing page, matching the club's iconic brand style in glowing turquoise and deep stadium shadows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
